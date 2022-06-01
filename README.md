@@ -13,4 +13,6 @@
 ##### 9. 第十六章介紹圖神經網路(Graph Neural Network, GNN)。
 
 ## 各章參考資料：參考資料.pdf
+## 範例資料集：https://drive.google.com/file/d/1czKLx3iOUx1KUPO8juPZeaV2-t2CPvh5/view?usp=sharing
+
 
