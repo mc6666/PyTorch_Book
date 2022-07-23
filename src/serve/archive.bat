@@ -1,0 +1,1 @@
+torch-model-archiver --force --model-name densenet161 --version 1.0 --model-file examples\image_classifier\densenet_161\model.py  --serialized-file model_store\densenet161-8d451a50.pth --extra-files examples\image_classifier\index_to_name.json --handler image_classifier --export-path=model_store

@@ -1,0 +1,1 @@
+torchserve --stop
