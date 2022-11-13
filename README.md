@@ -1,3 +1,7 @@
+# 第15章	強化學習 Gym 套件v.2.6 大改版，現有程式會出現錯誤，請安裝 v2.4.1版
+#### 請參閱 [v21 to v26 Migration Guide](https://gymnasium.farama.org/content/migration-guide/)
+#### gym 不再更新，未來由 gymnasium 套件取代，請參閱 [Gymnasium GitHub](https://github.com/Farama-Foundation/Gymnasium)
+
 # [PyTorch 開發者傳授秘訣](https://www.tenlong.com.tw/products/9786267146156?list_name=i-r-zh_tw)
 <img src="封面.png" alt="drawing" width="400"/>
 
