@@ -2,6 +2,8 @@
 #### 請參閱 [v21 to v26 Migration Guide](https://gymnasium.farama.org/content/migration-guide/)
 #### gym 不再更新，未來由 gymnasium 套件取代，請參閱 [Gymnasium GitHub](https://github.com/Farama-Foundation/Gymnasium)
 
+## 第4章	04_05_手寫阿拉伯數字辨識_完整版.ipynb 小改版，參閱 04_05_手寫阿拉伯數字辨識_更新版.ipynb
+
 # [PyTorch 開發者傳授秘訣](https://www.tenlong.com.tw/products/9786267146156?list_name=i-r-zh_tw)
 <img src="封面.png" alt="drawing" width="400"/>
 
